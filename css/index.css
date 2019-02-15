@@ -91,6 +91,7 @@ p {
 .topnav a {
 	text-decoration: none;
     color: black;
+    padding-top: 25px;
 }
 
 .top-content {
@@ -116,7 +117,7 @@ p {
     padding: 0 2%;
     margin-bottom: 0;
 }
-
+/* BOXES */
 .middle-content .boxes {
     display: flex;
     flex-wrap: wrap;
@@ -133,6 +134,44 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+
+/* .box1{
+    background: teal;
+}
+.box2 {
+    background: gold;
+}
+.box3 {
+    background: cadetblue;
+}
+.box4 {
+    background: coral;
+}
+.box5 {
+    background: crimson;
+}
+.box6 {
+    background: forestgreen;
+}
+.box7 {
+    background: darkorchid;
+}
+.box8 {
+    background: hotpink;
+}
+.box9 {
+    background: indigo;
+}
+.box10 {
+    background: dodgerblue;
+}  */
+
+
+
+
+
+
 
 .bottom-content {
     display: flex;
