@@ -1,0 +1,25 @@
+
+/* NAV */
+
+
+
+.topnav {
+    display: flex;
+    align-items: center;
+    color: yellow;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.topnav a {
+	text-decoration: none;
+    color: black;
+    padding-top: 25px;
+}
+
+/* .top-content .text-container button {
+    display: block;
+} */
+
